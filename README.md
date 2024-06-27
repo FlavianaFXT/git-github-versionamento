@@ -1,4 +1,7 @@
 # git-github-versionamento
+Resumo de conteudo proveniente dos cursos realizados nas seguintes comunidades:
+
+Reprograma
 
 ## INDICE 
 ### PROCESSO PARA SUBIR NO GITHUB
