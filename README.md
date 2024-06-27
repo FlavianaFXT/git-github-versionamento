@@ -1,7 +1,7 @@
 # git-github-versionamento
 Resumo de conteudo proveniente dos cursos realizados nas seguintes comunidades:
+![image](https://github.com/FlavianaFXT/git-github-versionamento/assets/113718720/a03f44e1-94a3-4472-aeb4-1808056ab088)
 
-Reprograma
 
 ## INDICE 
 ### PROCESSO PARA SUBIR NO GITHUB
