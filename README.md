@@ -1,7 +1,17 @@
 # git-github-versionamento
 
 ## INDICE 
+### PROCESSO PARA SUBIR NO GITHUB
 ### Como criar meu Pull Request? 🤔
+### checklist
+
+
+#  PROCESSO PARA SUBIR NO GITHUB:
+
+* Adicione as mudanças. (git add . para adicionar todos os arquivos, ou git add nome_do_arquivo para adicionar um arquivo específico)
+* Commite a cada mudança significativa ou na finalização do exercício (git commit -m "Mensagem do commit")
+* De Push nos commits da branch de voces (git push origin nome-da-branch)
+* Crie um Pull Request seguindo as orientações que estão nesse documento. (Aqui: https://github.com/mflilian/onX-tet-sX-temaX/blob/main/exercicios/projeto-casa/instrucoes-pull-request.md)
 
 
 # Como criar meu Pull Request? 🤔
@@ -34,5 +44,17 @@ Como?
 * Outro ponto que você queira adicionar.
 ```
 Feito isso, é so clicar em “Create pull request”. <br> <br>
-Tcharaaaannn! Agora é só esperar a prof revisar seu PR 💜
+
+
+# checklist
+
+- [ ] Fiz o fork do repositório.
+- [ ] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
+- [ ] Dentro da pasta "projeto-casa" criei uma pasta "meu-nome".
+- [ ] Resolvi o exercício proposto no projeto dentro da minha pasta "meu-nome".
+- [ ] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
+- [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/projeto-casa/instrucoes-pull-request.md).
+- [ ] Aguardei a prof mergiar
 
