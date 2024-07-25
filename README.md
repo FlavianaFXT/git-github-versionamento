@@ -8,6 +8,44 @@ Resumo de conteudo proveniente dos cursos realizados nas seguintes comunidades:
 ### Como criar meu Pull Request? 🤔
 ### checklist
 
+# COMO FAZER FORK DE UM PORJETO NO GITHUB
+
+* Fork esse repositório 
+* Clique no botão "code"
+* Copie o endereço do repositório
+* Abra o seu Gitbash
+
+* Entre no seu desktop:
+```
+     cd desktop
+```
+* Clone o fork na sua máquina: basta abrir o seu terminal e digitar:
+  
+```
+     git clone url-do-seu-repositorio-forkado
+```
+* Digite o comando  ls para encontrar o seu repositório:
+  
+```
+     ls
+```
+* Copie o nome do repositorio e entre na pasta clonada:
+  
+```
+     cd on23-tet-s2-html-css
+```
+* Crie uma branch com o seu nome:
+  
+```
+     git checkout -b seu-nome
+```
+* Digite o comando para abrir o projeto no vscode:
+  
+```
+     code .
+```
+
+
 
 #  PROCESSO PARA SUBIR NO GITHUB:
 
