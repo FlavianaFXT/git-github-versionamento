@@ -49,3 +49,9 @@ Como?
 Feito isso, é so clicar em “Create pull request”. <br> <br>
 
 
+# LINKS ÚTEIS
+
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
