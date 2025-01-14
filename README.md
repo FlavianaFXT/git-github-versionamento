@@ -4,9 +4,38 @@ Resumo de conteudo proveniente dos cursos realizados nas seguintes comunidades:
 
 
 ## INDICE 
+### ENTENDENDO O QUE È O GIT E SUA IMPROTÂNCIA
 ### PROCESSO PARA SUBIR NO GITHUB
 ### Como criar meu Pull Request? 🤔
 ### checklist
+
+# ENTENDENDO O QUE È O GIT E SUA IMPORTÂNCIA
+
+Git --> Open source, criado em 2005 por Linus Torvalds, software colaborativo
+
+## Navegação via commad line interface (CLI) e instalação
+
+### Comandos Básicos para um bom desempenho no terminal
+
+| windows | Unix |   |
+| cd  |  cd |   |
+| dir | ls |   |
+| mkdir  | mkdir |  cria uma pasta |
+|  del/rmdir |  rm -rf |   |
+| ls | dir + Enter  |   traz uma lista de diretórios |
+| cd/ |  | leva para a base do diretório |
+| cd:: |   |  volta para o diretório C: |
+| cls |   | limpar a tela |
+| tab |   |   autocompleta |
+| cd NOME DA PASTA + ENTER |   | Acessa a pasta |
+| del NOME DA PASTA |   |  deleta o que tem na pasta |
+| rmdir NOME DA PASTA /S /Q |   |  deleta a pasta |
+
+
+### Realizando a instalação do Git
+
+1) baixa o Git no [site](https://git-scm.com/downloads) e isntala no computador
+
 
 # COMO FAZER FORK DE UM PORJETO NO GITHUB
 
